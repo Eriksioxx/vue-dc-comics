@@ -77,8 +77,7 @@ export default {
   justify-content: space-between;
   height: 115px;
   padding: 0 15px;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-family: "Bangers", cursive;
 }
 
 .logo {
@@ -98,8 +97,9 @@ ul {
   font-size: 20px;
 
   li {
-    margin: 0 20px;
-    padding: 48px 0 43px 0;
+    margin: 0 20px !important;
+    padding: 45px 0 35px 0 !important;
+    border-bottom: 5px solid white;
 
     &:hover,
     &:active {
