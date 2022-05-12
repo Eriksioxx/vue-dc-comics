@@ -1,5 +1,7 @@
 # vue-dc-comics
 
+CLASSE 57# BOOLEAN
+
 ## Project setup
 ```
 npm install
